@@ -3,7 +3,6 @@
 
 This directory contains the data files used in the study.
 
-Files
 |File | Description |
 | --- | ------------|
 | Group1-Models.RData	| Literature where the focus are the models |
