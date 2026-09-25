@@ -1,4 +1,4 @@
-#A Bibliometric Review of Machine Learning Methods for Seismic Phase Picking#  
+# A Bibliometric Review of Machine Learning Methods for Seismic Phase Picking #  
   
 This repository contains the supplementary material associated with the study “A Bibliometric Review of Machine Learning Methods for Seismic Phase Picking.”  
   
