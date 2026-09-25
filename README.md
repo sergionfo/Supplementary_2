@@ -17,12 +17,12 @@ The repository provides the data and results supporting the bibliometric analysi
 
 ## Data/ ##  
 
-Contains the datasets and supplementary data used in the bibliometric analysis.  
+Contains the data in used in the bibliometric analysis, including the exports from Scopus and Web of Science
 These files provide the underlying bibliographic information used to examine publication trends, research themes, keywords, and relationships within the literature on machine learning methods for seismic phase picking.  
 
 ## Results/ ##
 
-Contains the outputs generated during the analysis, including supplementary results and visualizations associated with the study.  
+Contains the outputs generated during the analysis.  
 
 ## biblioshiny_synonyms.txt##  
 
@@ -31,7 +31,10 @@ For example, related terms such as:
 CNN, convolutional neural network, and convolutional neural networks, etc..  
 are grouped together to improve consistency when analyzing keywords and research topics.  
 
-##Scope of the Analysis##  
+## biblioshiny_terms_remove1.txt ##
+Contains the terms removed during the bibliometric analysis.
+
+## Scope of the Analysis ##  
 
 The bibliometric analysis focuses on scientific literature related to:  
 Machine learning, Deep learning, Convolutional neural networks (CNNs), Seismic phase picking and Automated seismic phase identification  
@@ -40,10 +43,11 @@ The analysis is designed to characterize the development and research landscape 
 ## Reproducibility ##
 
 The materials in this repository are provided as supplementary resources for the associated research publication.
+The analysis was preformed using Bibliometrix/Biblioshiny in R.
 
-The Data/ directory contains the source material used for the analysis, while Results/ contains the corresponding outputs. The synonym dictionary in biblioshiny_synonyms.txt can be used to reproduce the terminology normalization applied during the bibliometric analysis.
+, while Results/ contains the corresponding outputs. The synonym dictionary in biblioshiny_synonyms.txt can be used to reproduce the terminology normalization applied during the bibliometric analysis.
 
-The analysis can be further explored using bibliometric tools such as Bibliometrix/Biblioshiny in R.
+
 
 ## Citation ##
 If you use the data or results provided in this repository, please cite the associated publication:  
