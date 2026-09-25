@@ -43,10 +43,7 @@ The analysis is designed to characterize the development and research landscape 
 ## Reproducibility ##
 
 The materials in this repository are provided as supplementary resources for the associated research publication.
-The analysis was preformed using Bibliometrix/Biblioshiny in R.
-
-, while Results/ contains the corresponding outputs. The synonym dictionary in biblioshiny_synonyms.txt can be used to reproduce the terminology normalization applied during the bibliometric analysis.
-
+The analysis was preformed using Bibliometrix/Biblioshiny in R. All data in this repository are in Bibliometrix/Biblioshiny format
 
 
 ## Citation ##
