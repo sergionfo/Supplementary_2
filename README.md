@@ -24,7 +24,7 @@ These files provide the underlying bibliographic information used to examine pub
 
 Contains the outputs generated during the analysis.  
 
-## biblioshiny_synonyms.txt##  
+## biblioshiny_synonyms.txt ##  
 
 Contains synonym mappings used to standardize terminology during the bibliometric analysis.  
 For example, related terms such as:  
