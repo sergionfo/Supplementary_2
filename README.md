@@ -7,7 +7,7 @@ The repository provides the data and results supporting the bibliometric analysi
     Repository Structure
     Supplementary_2/
     ├── Data/
-    │   └── Supplementary data used in the bibliometric analysis
+    │   └── Data used in the bibliometric analysis
     │
     ├── Results/
     │   └── Results and outputs generated from the analysis
@@ -18,45 +18,23 @@ The repository provides the data and results supporting the bibliometric analysi
 ## Data/ ##  
 
 Contains the datasets and supplementary data used in the bibliometric analysis.  
-
 These files provide the underlying bibliographic information used to examine publication trends, research themes, keywords, and relationships within the literature on machine learning methods for seismic phase picking.  
 
 ## Results/ ##
 
 Contains the outputs generated during the analysis, including supplementary results and visualizations associated with the study.  
 
-biblioshiny_synonyms.txt  
+## biblioshiny_synonyms.txt##  
 
 Contains synonym mappings used to standardize terminology during the bibliometric analysis.  
-
 For example, related terms such as:  
-
-CNN, convolutional neural network, and convolutional neural networks  
-
-machine learning and machine-learning  
-
-deep learning and deep-learning  
-
-phase picking and seismic phase picking  
-
+CNN, convolutional neural network, and convolutional neural networks, etc..  
 are grouped together to improve consistency when analyzing keywords and research topics.  
 
-Scope of the Analysis  
+##Scope of the Analysis##  
 
 The bibliometric analysis focuses on scientific literature related to:  
-
-Machine learning  
-
-Deep learning  
-
-Convolutional neural networks (CNNs)  
-
-Seismic phase picking  
-
-Earthquake research  
-
-Automated seismic phase identification  
-
+Machine learning, Deep learning, Convolutional neural networks (CNNs), Seismic phase picking and Automated seismic phase identification  
 The analysis is designed to characterize the development and research landscape of machine-learning approaches for seismic phase picking.  
 
 ## Reproducibility ##
