@@ -4,16 +4,16 @@ This repository contains the supplementary material associated with the study �
   
 The repository provides the data and results supporting the bibliometric analysis of research on machine learning, deep learning, and seismic phase picking. It is intended to facilitate transparency, reproducibility, and further exploration of the literature analyzed in the study.  
   
-Repository Structure
-Supplementary_2/
-├── Data/
-│   └── Supplementary data used in the bibliometric analysis
-│
-├── Results/
-│   └── Results and outputs generated from the analysis
-│
-├── biblioshiny_synonyms.txt
-└── README.md
+    Repository Structure
+    Supplementary_2/
+    ├── Data/
+    │   └── Supplementary data used in the bibliometric analysis
+    │
+    ├── Results/
+    │   └── Results and outputs generated from the analysis
+    │
+    ├── biblioshiny_synonyms.txt
+    └── README.md
 
 ## Data/ ##  
 
