@@ -1,6 +1,6 @@
 # Supplementary material – version 18
 
-Deep Learning for Seismic Phase Picking: A Systematic Mapping Study (Moro & Oliveira).
+Deep Learning for Seismic Phase Picking: A Systematic Mapping Study.
 
 ## Data (data/)
 - record_identifiers_827.csv – DOI, WoS UT or Scopus link and inclusion status of all retrieved records (raw exports are not redistributed because of database licences).
