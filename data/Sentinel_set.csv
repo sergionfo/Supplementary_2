@@ -1,0 +1,18 @@
+study,authors,year,doi,in_WoS_export,in_Scopus_export,in_final_corpus_197
+EQTransformer,Mousavi et al.,2020,10.1038/s41467-020-17591-w,yes,yes,yes
+Which picker fits my data?,Münchmeyer et al.,2022,10.1029/2021JB023499,yes,yes,yes
+PickBlue,Bornstein et al.,2024,10.1029/2023EA003332,yes,yes,yes
+DeepPhasePick,Soto & Schurr,2021,10.1093/gji/ggab266,yes,no,yes
+DiTing,Zhao et al.,2023,10.1016/j.eqs.2022.01.022,yes,yes,yes
+CapsPhase,Saad & Chen,2022,10.1109/TGRS.2021.3089929,yes,yes,yes
+EQCCT,Saad et al.,2023,10.1109/TGRS.2023.3319440,yes,yes,yes
+PhaseNO,Sun et al.,2023,10.1029/2023GL106434,yes,yes,yes
+Transfer learning to bridge scales,Chai et al.,2020,10.1029/2020GL088651,yes,yes,yes
+A little data goes a long way,Lapins et al.,2021,10.1029/2021JB021910,yes,yes,yes
+USTC-Pickers,Zhu et al.,2023,10.1016/j.eqs.2023.03.001,yes,yes,yes
+Siamese EQTransformer,Xiao et al.,2021,10.1029/2020JB021444,yes,yes,yes
+EdgePhase,Feng et al.,2022,10.1029/2022GC010453,yes,yes,yes
+LEQNet,Lim et al.,2022,10.3389/feart.2022.848237,yes,yes,yes
+SeisBench,Woollam et al.,2022,10.1785/0220210324,yes,no,no
+INSTANCE,Michelini et al.,2021,10.5194/essd-13-5509-2021,no,no,no
+São Jorge 2022 unrest (Azores),Suarez et al.,2025,10.1007/s00024-024-03612-y,no,no,no

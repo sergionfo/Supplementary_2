@@ -1,0 +1,194 @@
+{
+ "groups": {
+  "G1": 79,
+  "G2": 100,
+  "G3": 7,
+  "G4": 11
+ },
+ "sum_groups": 197,
+ "groups_union_equals_corpus": true,
+ "overlap_between_groups": 0,
+ "sources_raw": 54,
+ "sources_after_&_normalisation": 53,
+ "source_variants": [
+  [
+   "COMPUTERS & GEOSCIENCES",
+   "COMPUTERS AND GEOSCIENCES"
+  ]
+ ],
+ "authors_distinct": 788,
+ "author_possible_variants": [
+  [
+   "MUENCHMEYER, J.",
+   "MUENCHMEYER, JANNES"
+  ],
+  [
+   "YUAN, SAN-YI",
+   "YUAN, SONGYONG"
+  ],
+  [
+   "LIU, CHANG",
+   "LIU, CHENG-NAN",
+   "LIU, CHENGNAN"
+  ],
+  [
+   "ZHAO, YU",
+   "ZHAO, YU -HE",
+   "ZHAO, YUN-GE"
+  ],
+  [
+   "LIU, YAO-HUNG",
+   "LIU, YAOQI",
+   "LIU, YAPENG",
+   "LIU, YIZHUO"
+  ],
+  [
+   "BARCHECK, G.",
+   "BARCHECK, GRACE"
+  ],
+  [
+   "LANGE, D.",
+   "LANGE, DIETRICH"
+  ],
+  [
+   "CHEN, FANG",
+   "CHEN, FANG-JIONG"
+  ],
+  [
+   "WU, Y-M",
+   "WU, YIH-MIN"
+  ],
+  [
+   "KISER, E.",
+   "KISER, ERIC"
+  ],
+  [
+   "GIUNCHI, C.",
+   "GIUNCHI, CARLO"
+  ],
+  [
+   "CHEN, P.",
+   "CHEN, PO"
+  ],
+  [
+   "CHEN, LI-WEI",
+   "CHEN, LIYI"
+  ],
+  [
+   "MYKLEBUST, ERIK B.",
+   "MYKLEBUST, ERIK BRYHN"
+  ],
+  [
+   "BORNSTEIN, T.",
+   "BORNSTEIN, THOMAS"
+  ],
+  [
+   "SCHMANDT, B.",
+   "SCHMANDT, BRANDON"
+  ],
+  [
+   "LEE, E. -J.",
+   "LEE, EN-JUI"
+  ],
+  [
+   "ZHANG, M.",
+   "ZHANG, MIAO"
+  ],
+  [
+   "GLASGOW, M.",
+   "GLASGOW, MARGARET"
+  ],
+  [
+   "YANG, HONGFENG",
+   "YANG, HSIANG-YU"
+  ],
+  [
+   "SATRIANO, C.",
+   "SATRIANO, CLAUDIO"
+  ],
+  [
+   "LIAO, W-Y",
+   "LIAO, WU-YU",
+   "LIAO, WULIN"
+  ],
+  [
+   "YANG, XIAO-ZHONG",
+   "YANG, XU"
+  ],
+  [
+   "CHEN, HONGFENG",
+   "CHEN, HSI-AN"
+  ],
+  [
+   "WANG, KANG",
+   "WANG, KANG-DONG"
+  ],
+  [
+   "WANG, R.",
+   "WANG, RUIJIA"
+  ],
+  [
+   "PICCININI, D.",
+   "PICCININI, DAVIDE"
+  ],
+  [
+   "RIETBROCK, A.",
+   "RIETBROCK, ANDREAS"
+  ],
+  [
+   "CHEN, D-Y",
+   "CHEN, DA-YI"
+  ],
+  [
+   "FERNANDES, RUI",
+   "FERNANDES, RUI MANUEL S"
+  ],
+  [
+   "CHUANG, LINDSAY Y.",
+   "CHUANG, LINDSAY Y. Y.",
+   "CHUANG, LINDSAY YULING"
+  ],
+  [
+   "WOOLLAM, J.",
+   "WOOLLAM, JACK"
+  ],
+  [
+   "LIANG, W-T",
+   "LIANG, WEN-TZONG"
+  ],
+  [
+   "MATIAS, LUIS",
+   "MATIAS, LU\u00cdS MANUEL A."
+  ],
+  [
+   "LI, XI-BING",
+   "LI, XIAOBIN",
+   "LI, XIAOLIAN",
+   "LI, XUE-NING",
+   "LI, XUEGUI"
+  ],
+  [
+   "WANG, ZHANGYU",
+   "WANG, ZHAO-WEI"
+  ],
+  [
+   "TILMANN, F.",
+   "TILMANN, FREDERIK"
+  ],
+  [
+   "CHEN, KUAN-YU",
+   "CHEN, KUN"
+  ]
+ ],
+ "author_same_initial_groups": 73,
+ "mean_TC_2021": 35.125,
+ "n_2021": 16,
+ "annual": {
+  "2020": 9,
+  "2021": 16,
+  "2022": 30,
+  "2023": 41,
+  "2024": 47,
+  "2025": 54
+ }
+}

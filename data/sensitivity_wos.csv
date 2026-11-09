@@ -1,0 +1,59 @@
+idx,UT,first_author,PY,DOI,decision,note
+1,WOS:001422039800026,Zhang YQ,2025,10.1109/TGRS.2025.3538757,eligible,microseismic first-arrival picking
+3,WOS:001595341000002,Wang KK,2025,10.1016/j.tust.2025.106995,eligible,mine microseismic first-arrival picking
+4,WOS:000733503500001,Liu NH,2022,10.1109/LGRS.2021.3107477,eligible,microseismic first-arrival picking
+5,WOS:001502477100018,Huang WX,2025,10.1109/TGRS.2025.3562813,eligible,microseismic first-arrival picking
+6,WOS:000877735600001,Li G,2023,10.1002/cpe.7392,eligible,P-wave first-arrival picking
+7,WOS:000847626300001,Chen HL,2023,10.1007/s11600-022-00898-1,eligible,mine microseismic first-arrival picking
+8,WOS:001182912700001,Zhao XY,2024,10.3390/s24051682,eligible,microseismic first-arrival picking (clustering)
+10,WOS:001410338600001,Sheng GQ,2025,10.1016/j.cageo.2024.105844,eligible,microseismic first-arrival picking
+11,WOS:001367199400001,Wang QF,2024,10.1093/gji/ggae308,eligible,microseismic arrival picking
+12,WOS:001139155300001,Choi S,2024,10.3390/electronics13010229,eligible,P-wave first-arrival picking
+19,WOS:000740751700001,Sugondo RA,2021,10.1016/j.heliyon.2021.e08605,eligible,P-wave arrival picking for warning
+20,WOS:001596735200001,Dalai B,2025,10.1093/gji/ggaf331,eligible,first-arrival picking local events
+25,WOS:001078698500001,Luo H,2023,10.1109/ACCESS.2023.3317084,eligible,mining microseismic P arrival picking
+26,WOS:001231891000001,Wang X,2024,10.1016/j.ymssp.2024.111442,eligible (boundary),acoustic-emission arrival picking
+36,WOS:000631786900001,Baker B,2021,10.1785/0220200316,eligible,application of ML pickers (Magna sequence)
+37,WOS:001635461200001,Qin K,2025,10.3390/s25237103,eligible,physics-constrained DL P-arrival picking (mine microseismic)
+38,WOS:001508708900001,Song DR,2025,10.1016/j.enggeo.2025.108109,eligible,microseismic P/S arrival picking
+41,WOS:000559986300001,He ZX,2020,10.1109/ACCESS.2020.3013262,eligible,P-wave arrival picking
+42,WOS:001373929300001,Guo TY,2025,10.1007/s00603-024-04296-5,eligible (boundary),laboratory AE P-wave picker
+45,WOS:000633394400011,He ZX,2021,10.1109/LGRS.2020.2983196,eligible,microseismic P-wave picking (capsule network)
+47,WOS:000640036400009,Wang YW,2021,10.1007/s11803-021-2027-6,eligible,P-wave arrival picking for EEW
+48,WOS:001239651700001,Chen BR,2024,10.1016/j.jrmge.2023.07.003,eligible,microfracture P/S arrival picking
+51,WOS:001492466700001,Li HY,2025,10.1088/2631-8695/add83e,eligible,P-wave arrival picking
+55,WOS:001552228700001,Fonzetti R,2025,10.1093/gji/ggaf286,eligible,application of ML pickers (L'Aquila)
+61,WOS:001306972700001,Yang X,2024,10.1016/j.ijrmms.2024.105888,eligible,transfer learning P-arrival picking in mines
+69,WOS:001500495100002,Garay M,2025,10.1016/j.jvolgeores.2025.108350,eligible,P/S arrival detection volcanic (Nevados del Chillan)
+80,WOS:001600763000033,Skabylov A,2025,10.1109/ACCESS.2025.3622113,eligible (boundary),P-wave detection with time-frequency images
+86,WOS:000783438200001,Ding W,2022,10.1029/2021JB023830,eligible,PmP phase identification and picking
+88,WOS:001280840400001,Kapetanidis V,2024,10.1016/j.tecto.2024.230433,eligible,application of ML picks (Gulf of Corinth)
+90,WOS:001597878200001,Braszus B,2025,10.1029/2025JB031877,eligible,application of DL picking (Alps 3-D model)
+93,WOS:001533699100023,Chai CP,2025,10.1785/0220240353,eligible,PickerXL arrival-time picker
+95,WOS:000606770100001,Yeck WL,2021,10.1785/0220200178,eligible,DL picking in NEIC real-time monitoring
+96,WOS:001531023900003,Li JJ,2024,10.1785/0320230051,eligible,application of ML pickers (Peace River)
+97,WOS:001563031600001,Katoh S,2025,10.1093/gji/ggaf324,eligible,P arrival and polarity with ViT
+106,WOS:001017482400001,Dai ZH,2023,10.1016/j.eqs.2023.04.003,eligible,PhaseNet generalization (Shandong)
+109,WOS:000813617100001,Chen H,2022,10.1029/2022GL097779,eligible,application of ML picker (Mariana OBS)
+111,WOS:001529154600001,Liu M,2025,10.1093/gji/ggaf256,eligible,evaluation of ML pickers on OBS data
+112,WOS:000529097700021,Park Y,2020,10.1029/2020GL087032,eligible,application of PhaseNet (Guy-Greenbrier)
+114,WOS:001530531900008,Yoon CE,2025,10.1785/0320240040,eligible,application of ML picking (Ta'u volcano)
+117,WOS:001393904800001,Costanzo A,2025,10.3390/s25010082,eligible,application of ML picking (Adriatic)
+118,WOS:001188324500001,Braszus B,2024,10.1093/gji/ggae077,eligible,application of DL picking (Alpine 1-D models)
+120,WOS:001240801100001,Han J,2024,10.1785/0220230246,eligible,application of DL picking (Korea)
+121,WOS:001583943200001,Chen H,2025,10.1016/j.tecto.2025.230875,eligible,application of ML catalog (Mariana)
+122,WOS:001167409800001,Li HL,2024,10.1109/LGRS.2024.3350731,eligible,tunnel microseismic first-break picking
+126,WOS:001663661900010,Emanov AA,2025,10.1134/S1069351325700806,eligible,application of automated ML processing (Khuvsgul)
+129,WOS:001530543000005,Song JH,2025,10.1785/0320250004,eligible (boundary),multitask picking and polarity (Weiyuan)
+133,WOS:000560376100091,Wang KW,2020,10.1029/2020GL089192,eligible,application of ML picks (Timpson)
+134,WOS:001625078600001,Sawaki Y,2025,10.1186/s40623-025-02311-9,eligible,application of ML picks (Kanagawa)
+138,WOS:001272129300001,Li YZ,2024,10.1016/j.jseaes.2024.106241,eligible,application of ML picks (Weiyuan-Rongxian)
+2,WOS:001245366600001,,,10.1190/GEO2023-0154.1,out of scope,exploration first-break picking
+13,WOS:000588496500024,,,10.1190/GEO2019-0437.1,out of scope,exploration first-break picking
+16,WOS:000720773700007,,,10.1093/jge/gxab026,out of scope,exploration first-break picking
+17,WOS:000510710600051,,,10.1109/TGRS.2019.2946118,out of scope,exploration first-break picking
+21,WOS:000732423500001,,,10.1109/LGRS.2021.3096572,out of scope,exploration first-break picking
+22,WOS:000967588600002,,,10.1007/s10712-023-09783-y,out of scope,near-surface arrival picking
+33,WOS:001404600600001,,,10.3390/rs17020232,out of scope,exploration first-break picking
+57,WOS:001349295600001,,,10.1016/j.cageo.2024.105746,out of scope,borehole survey arrivals
+104,WOS:001200156100013,,,10.1109/LGRS.2024.3383212,out of scope,acoustic logging first arrivals
